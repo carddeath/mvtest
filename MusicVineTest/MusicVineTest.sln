@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicVineTest", "MusicVineTest.csproj", "{03822425-B282-411D-A217-5C66C1C1D1B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiTestSuite", "..\ApiTestSuite\ApiTestSuite.csproj", "{28FD424B-F709-45EC-B93E-6ADAEAF1CB07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03822425-B282-411D-A217-5C66C1C1D1B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03822425-B282-411D-A217-5C66C1C1D1B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03822425-B282-411D-A217-5C66C1C1D1B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03822425-B282-411D-A217-5C66C1C1D1B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28FD424B-F709-45EC-B93E-6ADAEAF1CB07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28FD424B-F709-45EC-B93E-6ADAEAF1CB07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28FD424B-F709-45EC-B93E-6ADAEAF1CB07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28FD424B-F709-45EC-B93E-6ADAEAF1CB07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F861C91F-B53F-45F7-BB48-2EF74272125B}
+	EndGlobalSection
+EndGlobal
